@@ -1,7 +1,5 @@
-# 데이콘 물류 유통량 예측 AI 경진대회
-2021-DACON-Logistics-Distribution-Volume-Prediction-Competition
-
-<br/>
+# 2021 DACON Logistics Distribution Volume Prediction Competition
+### 물류 유통량 예측 AI 개발
 
 ## 1. 배경 & 목적
 
